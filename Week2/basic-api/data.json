@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Ahmet",
+        "surname":"Demir",
+        "id":"1"
+    },
+    {
+        "name":"Mehmet",
+        "surname":"Çelik",
+        "id":"2"
+    },
+    {
+        "name":"Ali",
+        "surname":"Tunç",
+        "id":"3"
+    }
+]
